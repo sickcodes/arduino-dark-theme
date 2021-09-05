@@ -4,9 +4,9 @@ Arduino Dark Mode - A Jet Black dark theme for the Arduino IDE, inspired by One 
 
 Download: [https://github.com/sickcodes/arduino-dark-theme](https://github.com/sickcodes/arduino-dark-theme)
 
-> This project is a fork of [@konrad91](https://github.com/konrad91)'s [https://github.com/konrad91/OneDarkArduino/](https://github.com/konrad91/OneDarkArduino/)
+> This project is a direct fork of [@konrad91](https://github.com/konrad91)'s [https://github.com/konrad91/OneDarkArduino/](https://github.com/konrad91/OneDarkArduino/)
 
-![screenshot](/one_dark_arduino_1.png)
+![Arduino Dark Mode Black Theme](/arduino-dark-theme-black.png)
 
 The following is credited to https://github.com/jeffThompson/DarkArduinoTheme 
 
