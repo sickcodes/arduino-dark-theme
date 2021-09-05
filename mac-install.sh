@@ -7,7 +7,7 @@
 
 set -e
 
-IDE_PATH=/usr/share/arduino/lib
+IDE_PATH=~/Applications/Arduino.app/Contents/Java/lib
 
 if [ "$(pgrep arduino)" ]; then
     echo "Please close Arduino IDE first."

@@ -1,12 +1,15 @@
 # Arduino Dark Theme (Black)
 
-Arduino Dark Mode - A Jet Black dark theme for the Arduino IDE, inspired by One Dark Pro for VSCode by binaryify: https://binaryify.github.io/OneDark-Pro/#/. Based on work done by Jeff Thompson: https://create.arduino.cc/projecthub/rahulkhanna/dark-theme-for-arduino-ide-17c001?ref=search&ref_id=theme&offset=0
+Arduino Dark Mode - A very dark theme for the Arduino IDE on Windows, Linux, and macOS.
 
 Download: [https://github.com/sickcodes/arduino-dark-theme](https://github.com/sickcodes/arduino-dark-theme)
 
+![Arduino Dark Mode Black Theme](/arduino-dark-theme-black.png)
+
 > This project is a direct fork of [@konrad91](https://github.com/konrad91)'s [https://github.com/konrad91/OneDarkArduino/](https://github.com/konrad91/OneDarkArduino/)
 
-![Arduino Dark Mode Black Theme](/arduino-dark-theme-black.png)
+> Inspired by One Dark Pro for VSCode by binaryify: https://binaryify.github.io/OneDark-Pro/#/. Based on work done by Jeff Thompson: https://create.arduino.cc/projecthub/rahulkhanna/dark-theme-for-arduino-ide-17c001?ref=search&ref_id=theme&offset=0
+
 
 The following is credited to https://github.com/jeffThompson/DarkArduinoTheme 
 
@@ -26,6 +29,18 @@ sudo bash ./linux-install.sh
 
 # uninstall
 sudo bash ./linux-uninstall.sh
+```
+
+### MACOS INSTALLATION
+
+This moves your old `theme` to `theme.bak`
+
+```bash
+# install
+sudo bash ./mac-install.sh
+
+# uninstall
+sudo bash ./mac-uninstall.sh
 ```
 
 ### CREATING YOUR OWN MODS
