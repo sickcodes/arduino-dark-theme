@@ -28,12 +28,12 @@ header.text.font = SansSerif,plain,12
 # GUI - CONSOLE
 console.font = Consolas,plain,11
 console.font.macosx = Monaco,plain,10
-console.color = #282C34
+console.color = #000000
 console.output.color = #aaaaaa
 console.error.color = #aaaaaa
 
 # GUI - BUTTONS
-buttons.bgcolor = #282C34
+buttons.bgcolor = #000000
 buttons.status.font = SansSerif,plain,12
 buttons.status.color = #ffffff
 
@@ -45,7 +45,7 @@ linestatus.bgcolor = #21252B
 
 # foreground and background colors
 editor.fgcolor = #ffffff
-editor.bgcolor = #282C34
+editor.bgcolor = #000000
 
 # highlight for the current line
 editor.linehighlight.color=#2C313C
@@ -59,7 +59,7 @@ editor.caret.color = #a0a0a0
 editor.external.bgcolor = #c8d2dc
 
 # selection color
-editor.selection.color = #404859
+editor.selection.color = #353535
 
 # area that's not in use by the text (replaced with tildes)
 editor.invalid.style = #7e7e7e,bold
@@ -125,8 +125,8 @@ linestatus.height  = 20
 
 # GUI - PLOTTING
 # color cycle created via colorbrewer2.org
-plotting.bgcolor = #ffffff
-plotting.color = #ffffff
+plotting.bgcolor = #353535
+plotting.color = #353535
 plotting.graphcolor.size = 4
 plotting.graphcolor.00 = #2c7bb6
 plotting.graphcolor.01 = #fdae61
